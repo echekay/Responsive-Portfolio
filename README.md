@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Week 2 Assignment -- Bootstrap portfolio layout
+Week 2 Assignment #1
